@@ -1,1 +1,2 @@
 - Day 1, set up Python, VS Code, Git and Github. Broke: missed out a " which left PS at >>, fixed with Ctrl+C. Learned git add = stage, git commit = save snapshot
+- Day 2, input() always returns str. Broke: "30" + 1 > TypeError; int("thirty") > ValueError. Fixed this by converting once at input: bill = float(input). Read tracebacks bottom-up
