@@ -1,0 +1,1 @@
+- Day 1, set up Python, VS Code, Git and Github. Broke: missed out a " which left PS at >>, fixed with Ctrl+C. Learned git add = stage, git commit = save snapshot
